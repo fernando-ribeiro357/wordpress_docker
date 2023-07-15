@@ -4,3 +4,5 @@ wp-data
 wp-app
 wp-content
 bkp
+.ssh-key
+.ssh-key.pub
